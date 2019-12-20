@@ -1,7 +1,6 @@
 ---
 title: "Credit Card Fraud Detectio"
 author: "Sai Srilakshmi Kanumuri"
-date: "12/1/2019"
 output: html_document
 ---
 
