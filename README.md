@@ -1,1 +1,2 @@
-# Credit-Card-Fraud-Detection-using-Machine-Learning
+Credit card fraud detection using Logistic Regression, Decision Tree, Artificial Neural Network and
+Gradient Boosting Method.
